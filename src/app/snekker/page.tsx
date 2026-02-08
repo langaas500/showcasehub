@@ -443,7 +443,7 @@ export default function HaandverkerPage() {
             </div>
 
             <div className="relative h-80 md:h-[420px]">
-              <Image src="/snekker 2.jpg" alt="Snekkerarbeid" fill className="object-cover rounded-xl" />
+              <Image src="/snekker2.jpg" alt="Snekkerarbeid" fill className="object-cover rounded-xl" />
               <div className="absolute inset-0 rounded-xl ring-1 ring-white/10" aria-hidden="true" />
             </div>
           </div>
