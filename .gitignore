@@ -16,6 +16,7 @@
 # next.js
 /.next/
 /out/
+nul
 
 # production
 /build
@@ -35,6 +36,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# claude
+.claude/
 
 # typescript
 *.tsbuildinfo
